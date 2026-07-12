@@ -1,2 +1,2 @@
 # Analysis-of-Algorithm
-Coding projects based in Java
+Implemented an algorithm to find the longest path in a tree, evaluated its performance on dozens of 200 to 300 vertex graphs.
